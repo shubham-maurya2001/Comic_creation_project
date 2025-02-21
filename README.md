@@ -13,8 +13,7 @@ This project is an AI-powered comic strip generator that takes a theme as input 
 ## 🛠️ Technologies Used
 - **Python**: Core programming language.
 - **GPT-based model**: Text/dialogue generation.
-- **PIL/Pillow**: Image processing.
-- **Matplotlib**: Comic strip layout design.
+- **PIL/Pillow**: Image processing. 
 - **Flask/FastAPI (optional)**: API for user interaction.
 
 
@@ -30,7 +29,7 @@ This project is an AI-powered comic strip generator that takes a theme as input 
    ```
 3. **Run the Project**
    ```sh
-   python main.py
+   python A.py
    ```
 
 ## 📌 Usage
@@ -47,6 +46,3 @@ This project is an AI-powered comic strip generator that takes a theme as input 
 
 ## 💡 Contributing
 Feel free to fork this repository and submit pull requests to improve the project!
-
-## 📜 License
-This project is licensed under the MIT License.
