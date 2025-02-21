@@ -3,7 +3,7 @@ import os
 from PIL import Image, ImageDraw, ImageFont
 
 # 🔹 Configure Google Gemini API Key
-genai.configure(api_key="AIzaSyAMJvhklS_aLswXGyPpySOABH3lEz5h5Ls")  # Replace with your actual API key
+genai.configure(api_key="GEMINI_API_KEY")  # Replace with your actual API key
 
 # 🔹 Function to Generate Captions Using Gemini
 def generate_captions(user_input, num_captions=5):
