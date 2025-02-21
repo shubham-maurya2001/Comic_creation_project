@@ -17,16 +17,6 @@ This project is an AI-powered comic strip generator that takes a theme as input 
 - **Matplotlib**: Comic strip layout design.
 - **Flask/FastAPI (optional)**: API for user interaction.
 
-## 📂 Project Structure
-```
-📁 ai-comic-strip-generator
-│── 📁 src              # Core logic for image & text generation
-│── 📁 static           # Stores generated images
-│── 📁 templates        # HTML templates (if using web app)
-│── 📄 main.py          # Main script to run the project
-│── 📄 requirements.txt # Dependencies
-│── 📄 README.md        # Project documentation
-```
 
 ## 🔧 Installation & Setup
 1. **Clone the Repository**
