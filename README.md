@@ -1,10 +1,62 @@
-# Story-to-comic-AI
-create any comic page using state-of-the-art text to image and large language models with your limitless imagination
-Our cutting-edge technology harnesses the power of the state-of-the-art palm language model API and stable diffusion xl model to provide you with the ability to generate unique and custom comic pages from a single prompt.
-This means you can now unleash your imagination and create any type of comic page you desire, without the limitations of traditional methods. 
-Our AI-powered system ensures that every page is unique and tailored to your specific prompt.
-You only need a palm and hugging face stable diffusion API key to get started.
-Here's a simple comic page generated using Story-to-comic-AI - 
-![Untitled design (1)](https://github.com/shreyash321/Story-to-comic-AI/assets/78251506/c31fde4f-b87e-4274-9136-0207f7c4af83)
-You Only need a Palm API and hugging face stable diffusion xl model API key to test this comic generator 
-⚡HAPPY EXPERIMENTING 🎅👋 
+# AI-Powered Comic Strip Generator
+
+## 📌 Project Overview
+This project is an AI-powered comic strip generator that takes a theme as input and produces a complete comic strip with both images and text. The goal is to automate the creation of engaging and visually appealing comics using AI models for image generation and text processing.
+
+## 🚀 Features
+- **AI-generated images**: Uses AI models to create unique cartoon-style images.
+- **Dynamic text generation**: Generates engaging dialogues and captions.
+- **Theme-based storytelling**: Creates stories based on user-provided themes.
+- **Automated panel layout**: Organizes images and text into a comic strip format.
+- **Customizable characters & settings**: Allows personalization for different styles.
+
+## 🛠️ Technologies Used
+- **Python**: Core programming language.
+- **GPT-based model**: Text/dialogue generation.
+- **PIL/Pillow**: Image processing.
+- **Matplotlib**: Comic strip layout design.
+- **Flask/FastAPI (optional)**: API for user interaction.
+
+## 📂 Project Structure
+```
+📁 ai-comic-strip-generator
+│── 📁 src              # Core logic for image & text generation
+│── 📁 static           # Stores generated images
+│── 📁 templates        # HTML templates (if using web app)
+│── 📄 main.py          # Main script to run the project
+│── 📄 requirements.txt # Dependencies
+│── 📄 README.md        # Project documentation
+```
+
+## 🔧 Installation & Setup
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/your-username/ai-comic-strip-generator.git
+   cd ai-comic-strip-generator
+   ```
+2. **Install Dependencies**
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. **Run the Project**
+   ```sh
+   python main.py
+   ```
+
+## 📌 Usage
+1. Provide a theme (e.g., "Superhero Adventure").
+2. AI generates images and dialogues.
+3. The comic strip is assembled and displayed.
+4. Save/export the final comic strip.
+
+## 🚀 Future Improvements
+- Enhanced character consistency across panels.
+- More customization options for themes and art styles.
+- Web and mobile UI for interactive comic creation.
+- Multilingual support for text generation.
+
+## 💡 Contributing
+Feel free to fork this repository and submit pull requests to improve the project!
+
+## 📜 License
+This project is licensed under the MIT License.
