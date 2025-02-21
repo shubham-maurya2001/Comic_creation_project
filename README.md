@@ -1,4 +1,4 @@
-# AI-Powered Comic Strip Generator
+# AI-Powered Comic Strip Creator
 
 ## 📌 Project Overview
 This project is an AI-powered comic strip generator that takes a theme as input and produces a complete comic strip with both images and text. The goal is to automate the creation of engaging and visually appealing comics using AI models for image generation and text processing.
