@@ -20,8 +20,7 @@ This project is an AI-powered comic strip generator that takes a theme as input 
 ## 🔧 Installation & Setup
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/ai-comic-strip-generator.git
-   cd ai-comic-strip-generator
+   git clone https://github.com/shubham-maurya2001/Comic_creation_project.git
    ```
 2. **Install Dependencies**
    ```sh
